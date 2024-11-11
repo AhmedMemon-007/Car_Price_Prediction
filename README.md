@@ -1,1 +1,3 @@
 # Car_Price_Prediction
+
+In this project, I worked with a car dataset containing columns such as name, year, selling_price, km_driven, fuel, seller_type, transmission, and owner. The objective was to predict the selling_price of cars based on these features. I preprocessed the data by encoding categorical variables and scaling numerical features. I then trained two regression models, Linear Regression and Lasso Regression, to predict car prices. Both models were evaluated to assess their performance, with the goal of understanding how well each could accurately predict selling prices based on the provided car attributes.
